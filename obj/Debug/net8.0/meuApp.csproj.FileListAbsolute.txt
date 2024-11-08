@@ -1,0 +1,14 @@
+/home/pc-raphael-2223205359/meuApp/bin/Debug/net8.0/meuApp
+/home/pc-raphael-2223205359/meuApp/bin/Debug/net8.0/meuApp.deps.json
+/home/pc-raphael-2223205359/meuApp/bin/Debug/net8.0/meuApp.runtimeconfig.json
+/home/pc-raphael-2223205359/meuApp/bin/Debug/net8.0/meuApp.dll
+/home/pc-raphael-2223205359/meuApp/bin/Debug/net8.0/meuApp.pdb
+/home/pc-raphael-2223205359/meuApp/obj/Debug/net8.0/meuApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/pc-raphael-2223205359/meuApp/obj/Debug/net8.0/meuApp.AssemblyInfoInputs.cache
+/home/pc-raphael-2223205359/meuApp/obj/Debug/net8.0/meuApp.AssemblyInfo.cs
+/home/pc-raphael-2223205359/meuApp/obj/Debug/net8.0/meuApp.csproj.CoreCompileInputs.cache
+/home/pc-raphael-2223205359/meuApp/obj/Debug/net8.0/meuApp.dll
+/home/pc-raphael-2223205359/meuApp/obj/Debug/net8.0/refint/meuApp.dll
+/home/pc-raphael-2223205359/meuApp/obj/Debug/net8.0/meuApp.pdb
+/home/pc-raphael-2223205359/meuApp/obj/Debug/net8.0/meuApp.genruntimeconfig.cache
+/home/pc-raphael-2223205359/meuApp/obj/Debug/net8.0/ref/meuApp.dll
